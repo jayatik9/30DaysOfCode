@@ -1,1 +1,1 @@
-# 30DaysOfCode-30DaysOfCode
+# 30DaysOfCode
